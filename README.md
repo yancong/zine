@@ -21,4 +21,4 @@ Both files are exported for printing on A4 paper
 
 The zine is a 16-page A5 booklet
 
-The recipe insert is an 8-page folding zine. (Guide on how to fold: https://www.wikihow.com/Make-a-Zine)
+The recipe insert is an 8-page folding zine. [Guide on how to fold](https://www.wikihow.com/Make-a-Zine)
