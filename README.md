@@ -1,9 +1,12 @@
-**About the zine *Putting the Hack in Hakka Noodles / Shaxian Can’t be Fucked with***
+**Putting the Hack in Hakka Noodles / Shaxian Can’t be Fucked with**
 
 * [Download the Zine](https://yancong.github.io/zine/ChaoyangTrap-zine.pdf)
 * [Download the bonus recipe insert](https://yancong.github.io/zine/ChaoyangTrap-zine-recipe-insert.pdf)
 
-This zine contains two stories and can be read both ways: one story about diasporic cooking with radical ingredient substitution as adaptive tactics; one story about the ubiquitous yet mysterious restaurant chain Shaxian Delicacies.
+This zine contains two stories and can be read both ways: 
+
+* *Putting the Hack in Hakka Noodles* is about diasporic cooking with radical ingredient substitution as adaptive tactics
+* *Shaxian Can’t be Fucked with* is about the ubiquitous yet mysterious restaurant chain Shaxian Delicacies
 
 Both stories were previously published in Chaoyang Trap, a newsletter about internet culture in China: [S02 Episode 6: Hot Dry Noodle Takes](https://chaoyang.substack.com/p/shaxian-radicalism)
 
