@@ -1,4 +1,4 @@
-**Putting the Hack in Hakka Noodles / Shaxian Can’t be Fucked with**
+**a Chaoyang Trap zine**
 
 [Download the zine](https://yancong.github.io/zine/ChaoyangTrap-zine.pdf)  |  [Download the bonus recipe insert](https://yancong.github.io/zine/ChaoyangTrap-zine-recipe-insert.pdf)
 
